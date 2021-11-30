@@ -16,4 +16,7 @@
 ![](https://img.shields.io/badge/Language-Python-orange.svg?style=flat-square)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
