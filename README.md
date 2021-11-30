@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Ricolxwz/Ricolxwz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ricolxwz&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
+</a>
 
-Here are some ideas to get you started:
+I‘m **Ricol**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Data Structure
+- 💬 Ask me about Postgraduate entrance examination
+- 📫 How to reach me: QQ-1351490934 Wechat-xwz01224
+
+🌟 **My Skills**
+
+![](https://img.shields.io/badge/Language-C-green.svg?style=flat-square)
+![](https://img.shields.io/badge/Language-Python-orange.svg?style=flat-square)
