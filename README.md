@@ -6,7 +6,7 @@
 
 🔥 I‘m **Ricol**
 
-- 🌱 I’m currently learning Data Structure
+- 🌱 I’m currently learning Computer Organization
 - 💬 Ask me about Postgraduate entrance examination
 - 📫 How to reach me: QQ-1351490934 Wechat-xwz01224
 
