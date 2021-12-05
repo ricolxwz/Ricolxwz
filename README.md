@@ -16,7 +16,6 @@
 ![](https://img.shields.io/badge/Language-Python-orange.svg?style=flat-square)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2010%20mins-blue)
 
 **I'm an Early 🐤** 
 
