@@ -12,8 +12,8 @@
 
 🌟 **My Skills**
 
-![](https://img.shields.io/badge/Language-C-green.svg?style=flat-square)
-![](https://img.shields.io/badge/Language-Python-orange.svg?style=flat-square)
+![](https://img.shields.io/badge/Language-C-green.svg?style=flat)
+![](https://img.shields.io/badge/Language-Python-orange.svg?style=flat)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2010%20mins-blue)
