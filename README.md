@@ -12,8 +12,8 @@
 
 🌟 **My Skills**
 
-![](https://img.shields.io/badge/Language-C-green.svg?style=flat)
-![](https://img.shields.io/badge/Language-Python-orange.svg?style=flat)
+![](https://img.shields.io/badge/Language-C-green.svg?style=flat-square)
+![](https://img.shields.io/badge/Language-Python-orange.svg?style=flat-square)
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
