@@ -12,9 +12,9 @@
 
 🌟 **My Skills**
 
-![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=orange)
-![](https://img.shields.io/badge/-C-f05032?style=flat-square&logo=C&logoColor=blue)
-![](https://img.shields.io/badge/-python-f05032?style=flat-square&logo=python&logoColor=yellow)
+![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=fff)
+![](https://img.shields.io/badge/-C-f05032?style=flat-square&logo=C&logoColor=fff)
+![](https://img.shields.io/badge/-python-f05032?style=flat-square&logo=python&logoColor=fff)
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
