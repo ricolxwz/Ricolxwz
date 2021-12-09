@@ -6,7 +6,7 @@
 
 ☄️ I‘m **Ricol**
 
-- 🌱 I’m currently learning Computer Organization
+- 🌱 I’m currently learning [Computer Organization](https://github.com/Ricolxwz/Computer-Organization-408)
 - 💬 Ask me about Postgraduate entrance examination
 - 📫 How to reach me: ricol.xwz@outlook.com
 
