@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Computer Organization
 - 💬 Ask me about Postgraduate entrance examination
-- 📫 How to reach me: QQ-1351490934 Wechat-xwz01224
+- 📫 How to reach me: ricol.xwz@outlook.com
 
 🌟 **My Skills**
 
