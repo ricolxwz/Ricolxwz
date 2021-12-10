@@ -60,3 +60,7 @@ C                        3 repos             ███████████�
 
  Last Updated on 09/12/2021
 <!--END_SECTION:waka-->
+
+<div align="center">
+༼ つ ◕_◕ ༽つ
+</div>
