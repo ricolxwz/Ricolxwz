@@ -34,14 +34,13 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     8 mins              ███████████████████░░░░░░   78.58% 
-TeX                      2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.42%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          11 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -54,7 +53,7 @@ C                        3 repos             ███████████�
 
 
 
- Last Updated on 04/02/2022 18:34:32 UTC
+ Last Updated on 05/02/2022 18:33:32 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
