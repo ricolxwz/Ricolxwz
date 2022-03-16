@@ -34,15 +34,13 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          2 mins              █████████████████████████   100.0% 
-pythonProject1           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-pythonProject            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 ```
 
@@ -55,7 +53,7 @@ C                        3 repos             ███████████�
 
 
 
- Last Updated on 15/03/2022 18:42:22 UTC
+ Last Updated on 16/03/2022 18:42:29 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
