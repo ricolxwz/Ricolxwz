@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/-java-ffa500?style=flat-square&logo=java&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **I'm an Early 🐤** 
 
@@ -70,7 +70,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/05/2022 09:55:52 UTC
+ Last Updated on 13/05/2022 18:46:19 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
