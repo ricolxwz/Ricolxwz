@@ -6,9 +6,9 @@
 
 ☄️ I‘m **Ricol**
 
-- 🌱 I’m currently learning Operating system
+- 🌱 I’m currently learning Javascript
 - 💬 Ask me about Postgraduate entrance examination
-- 📫 How to reach me: ricol.xwz@outlook.com
+- 📫 How to reach me: ricol.xwz@gmail.com
 
 🌟 **My Skills**
 
