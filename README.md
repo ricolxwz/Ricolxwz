@@ -37,13 +37,13 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 42 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  42 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Materials-Science-and-Eng42 mins             █████████████████████████   100.0%
 
 ```
 
@@ -60,7 +60,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/06/2022 18:44:23 UTC
+ Last Updated on 16/06/2022 18:45:00 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
