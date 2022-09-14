@@ -18,37 +18,7 @@
 ![](https://img.shields.io/badge/-java-ffa500?style=flat-square&logo=java&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-313%20hrs%2057%20mins-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    285 commits    ██████████░░░░░░░░░░░░░░░   40.37% 
-🌆 Daytime    266 commits    █████████░░░░░░░░░░░░░░░░   37.68% 
-🌃 Evening    153 commits    █████░░░░░░░░░░░░░░░░░░░░   21.67% 
-🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TeX                      8 hrs 5 mins        █████████████████████░░░░   84.42% 
-LaTeX source file        1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.58% 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-🔥 Editors: 
-IntelliJ                 9 hrs 34 mins       █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-Kaoyanshuxue             7 hrs 52 mins       ████████████████████░░░░░   82.24% 
-CSkaoyan                 1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.76%
-
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-315%20hrs%2053%20mins-blue)
 
 **I Mostly Code in TeX** 
 
@@ -63,7 +33,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2022 18:49:13 UTC
+ Last Updated on 14/09/2022 18:49:51 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
