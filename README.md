@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/-java-ffa500?style=flat-square&logo=java&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-329%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-329%20hrs%2052%20mins-blue)
 
 **I Mostly Code in TeX** 
 
@@ -33,7 +33,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2022 18:52:14 UTC
+ Last Updated on 27/09/2022 18:57:43 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
