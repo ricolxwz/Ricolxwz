@@ -18,7 +18,34 @@
 ![](https://img.shields.io/badge/-java-ffa500?style=flat-square&logo=java&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-384%20hrs%2058%20mins-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    286 commits    █████████░░░░░░░░░░░░░░░░   38.91% 
+🌆 Daytime    281 commits    █████████░░░░░░░░░░░░░░░░   38.23% 
+🌃 Evening    166 commits    █████░░░░░░░░░░░░░░░░░░░░   22.59% 
+🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+C++                      7 hrs 23 mins       █████████████████████████   100.0%
+
+🔥 Editors: 
+CLion                    7 hrs 23 mins       █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+KaoyanDataStructure      7 hrs 23 mins       █████████████████████████   100.0%
+
+```
 
 **I Mostly Code in TeX** 
 
@@ -33,7 +60,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2022 18:45:05 UTC
+ Last Updated on 10/11/2022 18:45:44 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
