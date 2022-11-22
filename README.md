@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/-java-ffa500?style=flat-square&logo=java&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-389%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-389%20hrs%2020%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -37,13 +37,13 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      1 hr 8 mins         █████████████████████████   100.0%
+C++                      23 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-CLion                    1 hr 8 mins         █████████████████████████   100.0%
+CLion                    23 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-KaoyanDataStructure      1 hr 8 mins         █████████████████████████   100.0%
+KaoyanDataStructure      23 mins             █████████████████████████   100.0%
 
 ```
 
@@ -60,7 +60,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2022 18:43:28 UTC
+ Last Updated on 22/11/2022 18:43:27 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
