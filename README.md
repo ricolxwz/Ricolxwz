@@ -20,33 +20,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-389%20hrs%2030%20mins-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    259 commits    █████████░░░░░░░░░░░░░░░░   38.54% 
-🌆 Daytime    254 commits    █████████░░░░░░░░░░░░░░░░   37.8% 
-🌃 Evening    157 commits    █████░░░░░░░░░░░░░░░░░░░░   23.36% 
-🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in TeX** 
 
 ```text
@@ -60,7 +33,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/12/2022 18:37:34 UTC
+ Last Updated on 12/12/2022 18:39:43 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
