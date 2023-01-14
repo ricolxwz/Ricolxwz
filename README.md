@@ -18,14 +18,14 @@
 ![](https://img.shields.io/badge/-java-ffa500?style=flat-square&logo=java&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-389%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%2015%20mins-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    268 commits    █████████░░░░░░░░░░░░░░░░   37.17% 
-🌆 Daytime    289 commits    ██████████░░░░░░░░░░░░░░░   40.08% 
-🌃 Evening    162 commits    █████░░░░░░░░░░░░░░░░░░░░   22.47% 
+🌞 Morning    268 commits    █████████░░░░░░░░░░░░░░░░   37.07% 
+🌆 Daytime    290 commits    ██████████░░░░░░░░░░░░░░░   40.11% 
+🌃 Evening    163 commits    █████░░░░░░░░░░░░░░░░░░░░   22.54% 
 🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
 
 ```
@@ -37,13 +37,13 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      41 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  41 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+麦旋风超好吃                   41 mins             █████████████████████████   100.0%
 
 ```
 
@@ -60,7 +60,7 @@ Smarty                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/01/2023 18:37:20 UTC
+ Last Updated on 14/01/2023 18:35:23 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
