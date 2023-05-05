@@ -36,13 +36,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TeX** 
@@ -58,7 +58,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/05/2023 18:33:30 UTC
+ Last Updated on 05/05/2023 18:33:30 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
