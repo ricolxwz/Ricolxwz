@@ -48,17 +48,17 @@ No Activity Tracked This Week
 **I Mostly Code in TeX** 
 
 ```text
-TeX                      6 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-HTML                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+TeX                      6 repos             ████████░░░░░░░░░░░░░░░░░   31.58 % 
+HTML                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
 
 
- Last Updated on 21/05/2023 18:33:35 UTC
+ Last Updated on 22/05/2023 18:33:07 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
