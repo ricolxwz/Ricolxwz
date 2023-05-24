@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning IELTS
 - 💬 Ask me about Everything
 - 📫 How to reach me: ricol.xwz@gmail.com
-- 🔮 My personal website: ricolxwz.com
+- 🔮 My personal website: [ricolxwz.com](https://ricolxwz.com)
 
 🌟 **My Skills**
 
