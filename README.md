@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning IELTS
 - 💬 Ask me about Everything
-- 📫 How to reach me: ricol.xwz@gmail.com
+- 📫 How to reach me: mail@ricolxwz.com
 - 🔮 My personal website: [ricolxwz.com](https://ricolxwz.com)
 
 🌟 **My Skills**
