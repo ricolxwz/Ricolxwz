@@ -20,6 +20,7 @@
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
+![](https://img.shields.io/badge/-neovim-4F517D?style=flat-square&logo=neovim&logoColor=fff)
 
 <div align="center">
 ༼ つ ◕_◕ ༽つ
