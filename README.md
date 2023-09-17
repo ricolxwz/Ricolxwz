@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning NumPy
 - 💬 Ask me about Everything
 - 📫 How to reach me: mail@ricolxwz.com
-- 🔮 My personal website: [ricolxwz.com](https://ricolxwz.com)
 
 🌟 **My Skills**
 
