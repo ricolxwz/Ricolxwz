@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ricolxwz&count_private=true&show_icons=true&theme=prussian" />
-</a>
+☄️ I‘m **麦旋风**
 
-☄️ I‘m **Ricol**
-
-- 🌱 I’m currently learning NumPy
+- 🌱 I’m currently learing in Sydney
 - 💬 Ask me about Everything
 - 📫 How to reach me: mail@ricolxwz.com
 
